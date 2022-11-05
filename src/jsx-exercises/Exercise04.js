@@ -34,14 +34,4 @@ Did you want a JSX fragment <>...</>
 
 */
 
-// function TestComponent() {
-//     return(
-//         <>
-//         [<TestComponent1/> 
-//         <TestComponent2/>]
-//         </>
-//     )
-// }
 
-
-// export default TestComponent;
